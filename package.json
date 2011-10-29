@@ -1,0 +1,11 @@
+{
+    "name": "expressional"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+      "express": "2.4.7"
+    , "ejs": ">= 0.0.1"
+    , "mongoskin" : ">=0.1.3"
+    , "socket.io" : "latest"
+  }
+}
